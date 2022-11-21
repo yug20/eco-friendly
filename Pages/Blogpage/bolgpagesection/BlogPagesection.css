@@ -1,0 +1,78 @@
+.blogpageshead {
+    max-width: 702px;
+    margin: auto;
+}
+
+section.blogpages .row {
+    align-items: center;
+}
+
+section.blogpages {
+    padding-bottom: 179px;
+    position: relative;
+}
+
+.blogpageshead p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+    text-align: center;
+    color: #8392A5;
+    padding-bottom: 50px;
+}
+
+section.blogpages:after {
+    content: "";
+    position: absolute;
+    background-image: url(../../../Assets/Images/portfoliopagepan1.png);
+    background-repeat: no-repeat;
+    width: 185px;
+    height: 252px;
+    left: 0;
+    bottom: 6%;
+}
+
+
+/*  */
+.mainimgdivclass h5 {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 33px;
+    /* identical to box height */
+
+
+    /* second */
+    color: #000000;
+    margin-bottom: 18px;
+}
+
+.learnmore {
+    display: flex;
+}
+
+.mainimgdivclass span {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #8EBE22;
+    padding-bottom: 23px;
+    display: flex;
+}
+
+.mainimgdivclass p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+    color: #8392A5;
+    margin-bottom: 40px;
+}

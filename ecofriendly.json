@@ -1,0 +1,172 @@
+{
+    "Planning": [
+        {
+            "id": 1,
+            "className": "bulb1 design",
+            "palningblub": "https://project.delemontstudio.com/ecofriendly/Images/planing1.png",
+            "title": "Planning",
+            "description": "We start by analysing your existing website (if you have one) to determine its structure, then we work with you to tidy up and improve its sitemap. We ask you to provide any wording, images and other content you’d like to include",
+            "seemoreclass": "movemoresee1 see",
+            "more": "See more"
+        }, 
+        {
+            "id": 2,
+            "className": "bulb2 design",
+            "palningblub": "https://project.delemontstudio.com/ecofriendly/Images/planing2.png",
+            "title": "Design",
+            "description": "Next we develop the wireframes into full colour, detailed mockups and share them with you again to collect and discuss your feedback. We also help you identify a primary call-to-action (CTA) that suits your business.",
+            "seemoreclass": "movemoresee2 see",
+            "more": "See more"
+        },
+        {
+            "id": 3,
+            "className": "bulb3 design",
+            "palningblub": "https://project.delemontstudio.com/ecofriendly/Images/planing3.png",
+            "title": "Development",
+            "description": "We then move on to the build stage, where we bring the designs to life! We’re WordPress specialists and our main areas of technical expertise are HTML5, CSS, PHP, JavaScript and SVG animation.",
+            "seemoreclass": "movemoresee3 see",
+            "more": "See more"
+        }
+    ],
+    "clientdata": [
+        {
+            "id": 1,
+            "className1": "bgcolor1 mainclient",
+            "images": "https://project.delemontstudio.com/ecofriendly/Images/client1.png",
+            "heading": "Samantha William",
+            "regioncolor": "america1",
+            "region": "American",
+            "client": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vehicula nunc non nisl lacinia tincidunt. Vivamus sodales erat id mollis sodales."
+        },
+        {
+            "id": 2,
+            "className1": "bgcolor2 mainclient",
+            "images": "https://project.delemontstudio.com/ecofriendly/Images/client2.png",
+            "heading": "Samantha William",
+            "regioncolor": "america2",
+            "region": "American",
+            "client": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vehicula nunc non nisl lacinia tincidunt. Vivamus sodales erat id mollis sodales."
+        },
+        {
+            "id": 3,
+            "className1": "bgcolor3 mainclient",
+            "images": "https://project.delemontstudio.com/ecofriendly/Images/client3.png",
+            "heading": "Samantha William",
+            "regioncolor": "america3",
+            "region": "American",
+            "client": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vehicula nunc non nisl lacinia tincidunt. Vivamus sodales erat id mollis sodales."
+        },
+        {
+            "id": 4,
+            "className1": "bgcolor4 mainclient",
+            "images": "https://project.delemontstudio.com/ecofriendly/Images/client4.png",
+            "heading": "Samantha William",
+            "regioncolor": "america4",
+            "region": "American",
+            "client": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vehicula nunc non nisl lacinia tincidunt. Vivamus sodales erat id mollis sodales."
+        }
+    ],
+    "blog": [
+        {
+            "id": 1,
+            "blogimg": "https://project.delemontstudio.com/ecofriendly/Images/blog1.png",
+            "meetblog": "Meet with Our Partners",
+            "date": "22 July, 2021" 
+        },
+        {
+            "id": 1,
+            "blogimg": "https://project.delemontstudio.com/ecofriendly/Images/blog2.png" ,
+            "meetblog": "Meet with Our Partners",
+            "date": "22 July, 2021" 
+        },
+        {
+            "id": 1,
+            "blogimg": "https://project.delemontstudio.com/ecofriendly/Images/blog3.png",
+            "meetblog": "Meet with Our Partners",
+            "date": "22 July, 2021" 
+        }
+    ],
+    "webdevelopment1": [
+        {
+            "id": 1,
+            "palning1": "https://project.delemontstudio.com/ecofriendly/Images/devlopment1.png"
+        }
+    ],
+    "webplaning1": [
+        {
+            "id": 1,
+            "className1": "webanaiysingcolor1 webanaiysing lineborder",
+            "webtitle1": "1. Planning",
+            "webdetail1": "We start by analysing your existing website (if you have one) to determine its structure, then we work with you to tidy up and improve its sitemap. We ask you to provide any wording, images and other content you’d like to include, and our expert copywriter helps to review and polish the drafts if needed. We use project management software called Basecamp which makes the process of collecting and sharing project assets very easy, with everything organised in one place."
+        }
+    ],
+    "webdevelopment2": [
+        {
+            "id": 1,
+            "palning2": "https://project.delemontstudio.com/ecofriendly/Images/devlopment2.png"
+        }
+    ],
+    "webplaning2": [
+        {
+            "id": 1,
+            "className2": "webanaiysingcolor2 webanaiysing",
+            "webtitle2": "2. Design",
+            "webdetail2": "Next we develop the wireframes into full colour, detailed mockups and share them with you again to collect and discuss your feedback. We also help you identify a primary call-to-action (CTA) that suits your business. Having a crystal-clear, appealing CTA significantly improves your conversion rate - turning your visitors into enquiries and sales. We’re experts in responsive design and you can rest assured that your website will adapt beautifully on all devices."
+        }
+    ],
+    "webdevelopment3": [
+        {
+            "id": 1,
+            "palning3": "https://project.delemontstudio.com/ecofriendly/Images/devlopment3.png"
+        }
+    ],
+    "webplaning": [
+        {
+            "id": 1,
+            "className3": "webanaiysingcolor3 webanaiysing",
+            "webtitle3": "3. Development",
+            "webdetail3": "We then move on to the build stage, where we bring the designs to life! We’re WordPress specialists and our main areas of technical expertise are HTML5, CSS, PHP, JavaScript and SVG animation. We also incorporate industry-leading tools which allow you to update and adapt your content on all pages of the website with user-friendly editors. You can preview everything on our development server before the launch, without affecting your existing website (if you have one)."
+        }
+    ],
+    "blogpage":[
+        {
+            "id": 1,
+            "blogpage": "https://project.delemontstudio.com/ecofriendly/Images/blogpage1.png",
+            "blogmaindiv": "mainimgdivclass",
+            "meetblogimg": "Meet with Our Partners",
+            "blogpagedate": "22 July,2021",
+            "blogpagedetail": "Next we develop the wireframes into full colour, detailed mockups and share them with you again to collect and discuss your feedback. We also help you identify a primary call-to-action (CTA) that suits your business. Having a crystal-clear, appealing CTA significantly improves your conversion rate - turning your visitors into enquiries and sales. We’re experts in responsive design and you can rest assured that your website will adapt beautifully on all devices.",
+            "className": "joinnow",
+            "blogbutton": "Learn more"
+        }
+    ],
+    "blogpagedata":[
+    {
+            "id": 1,
+            "blogimg": "https://project.delemontstudio.com/ecofriendly/Images/blog1.png",
+            "meetblog": "Meet with Our Partners",
+            "date": "22 July, 2021",
+            "blogpagedatadetail": "Quisque auctor scelerisque augue, sed feugiat ligula venenatis et. Morbi porttitor purus pellentesque elit ornare tempus. Phasellus vitae tincidunt risus, at mollis eros...",
+            "classNameBlog": "joinnow",
+            "bloglearnbutton": "Learn more" 
+        },
+        {
+            "id": 1,
+            "blogimg": "https://project.delemontstudio.com/ecofriendly/Images/blog4.png" ,
+            "meetblog": "Meet with Our Partners",
+            "date": "22 July, 2021",
+            "blogpagedatadetail": "Quisque auctor scelerisque augue, sed feugiat ligula venenatis et. Morbi porttitor purus pellentesque elit ornare tempus. Phasellus vitae tincidunt risus, at mollis eros...",
+            "classNameBlog": "joinnow",
+            "bloglearnbutton": "Learn more" 
+        },
+        {
+            "id": 1,
+            "blogimg": "https://project.delemontstudio.com/ecofriendly/Images/blog3.png",
+            "meetblog": "Meet with Our Partners",
+            "date": "22 July, 2021",
+            "blogpagedatadetail": "Quisque auctor scelerisque augue, sed feugiat ligula venenatis et. Morbi porttitor purus pellentesque elit ornare tempus. Phasellus vitae tincidunt risus, at mollis eros...",
+            "classNameBlog": "joinnow",
+            "bloglearnbutton": "Learn more" 
+        }
+    ]
+}

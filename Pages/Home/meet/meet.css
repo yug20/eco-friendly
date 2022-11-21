@@ -1,0 +1,86 @@
+/* .groth1 img {
+    width: 211px !important;
+    height: 63px;
+}
+
+.groth2 img {
+    width: 63px !important;
+    height: 63px;
+}
+
+.groth3 img {
+    width: 243px !important;
+    height: 78px;
+} */
+
+/* .groth4 img {
+    width: 102px !important;
+    height: 55px;
+} */
+
+/* .groth5 img {
+    width: 128px !important;
+    height: 63px;
+} */
+
+section.meet {
+    padding-top: 144px;
+}
+
+/* .meetpartners h2 {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 57px;
+    color: #182B49;
+    position: relative;
+    text-align: center;
+    margin-bottom: 56px;
+}*/
+
+.meetpartners p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+    text-align: center;
+    color: #8392A5;
+    max-width: 901px;
+    margin: auto;
+}
+
+.meetpartners h2:after {
+    content: "";
+    position: absolute;
+    width: 80px;
+    height: 5px;
+    background: #8EBE22;
+    border-radius: 8px;
+    bottom: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.partners .owl-carousel.owl-theme.owl-loaded.owl-drag {
+    margin-top: 110px;
+}
+
+/* .partners .owl-item.cloned {
+    margin: auto !important;
+} */
+
+
+/* .partners img {
+    margin: auto;
+} */
+
+.partners img {
+    /* width: -webkit-fill-available; */
+    width: auto !important;
+    justify-content: space-between;
+    display: flex;
+    margin: auto;
+}

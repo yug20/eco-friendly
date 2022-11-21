@@ -1,0 +1,105 @@
+section.portfolio {
+    padding-bottom: 102px;
+    padding-top: 180px;
+    position: relative;
+}
+
+section.portfolio:before {
+    content: "";
+    position: absolute;
+    background-image: url(../../../Assets/Images/blogpan2.png);
+    background-repeat: no-repeat;
+    width: 260px;
+    height: 438px;
+    right: 0;
+    bottom: -12%;
+}
+
+/* .ourportfolio h2 {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 57px;
+    color: #182B49;
+    margin-bottom: 56px;
+    text-align: center;
+} */
+
+.ourportfolio p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+    text-align: center;
+    color: #8392A5;
+    /* max-width: 701px; */
+    /* margin: auto; */
+    margin: 0;
+}
+
+.ourportfolio {
+    margin-bottom: 83px !important;
+    max-width: 701px;
+    margin: auto;
+}
+
+.valuation h2 {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    color: #182B49;
+    margin-top: 37px;
+}
+
+.valuation p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    color: #8392A5;
+    opacity: 0.7;
+    margin-bottom: 16px;
+}
+
+.valuation {
+    margin-bottom: 72px;
+}
+
+.seeportfoli a {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: -0.02em;
+    text-decoration-line: underline;
+
+    /* p2 */
+    color: #089D93;
+}
+
+.seeportfoli {
+    text-align: center;
+}
+
+.valuation img:hover {
+    transform: scale(1.05);
+    transition: all 0.5s ease;
+}
+
+.valuation img {
+    transition: all 0.5s ease;
+}
+
+.animated.fadeIn img {
+    width: -webkit-fill-available;
+}

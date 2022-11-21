@@ -1,0 +1,134 @@
+section {
+    padding-top: 80px;
+}
+
+section.contact {
+    position: relative;
+    padding-bottom: 200px;
+}
+
+section.contact:after {
+    content: "";
+    position: absolute;
+    background-image: url(../../Assets/Images/portfoliopagepan1.png);
+    background-repeat: no-repeat;
+    width: 185px;
+    height: 252px;
+    left: 0;
+    bottom: 22%;
+}
+
+section.contact:before {
+    content: "";
+    position: absolute;
+    background-image: url(../../Assets/Images/portfoliopagepan2.png);
+    background-repeat: no-repeat;
+    width: 101px;
+    height: 223px;
+    right: 0;
+    top: 20%;
+}
+
+.contacthead p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+    text-align: center;
+    color: #8392A5;
+    margin: 0;
+}
+
+.contacthead {
+    max-width: 856px;
+    margin: auto;
+    padding-bottom: 60px;
+}
+
+.getintouch h4 {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    color: #182B49;
+    margin: 0;
+    padding-bottom: 15px;
+}
+
+.getintouch p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* identical to box height, or 167% */
+    color: #8392A5;
+}
+
+.getintouch {
+    padding-bottom: 50px;
+}
+
+.contactenterdetail input::placeholder {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+    color: #8392A5;
+    opacity: 0.5;
+}
+
+.message textarea::placeholder {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+    color: #8392A5;
+    opacity: 0.5;
+}
+
+.contactenterdetail input,
+textarea {
+    border: 1px solid rgb(8 157 147 / 20%);
+    border-radius: 5px;
+    width: 355px;
+    height: 55px;
+    padding-left: 20px;
+}
+
+.submitform {
+    padding-top: 60px;
+    display: flex;
+}
+
+.message textarea {
+    width: 715px;
+    height: 207px;
+}
+
+
+.contactenterdetail input {
+    /* margin-right: 30px; */
+    margin-bottom: 30px;
+}
+
+.contactpageimn {
+    display: flex;
+    justify-content: flex-end !important;
+    /* align-items: end; */
+}
+
+input.nameenter {
+    margin-right: 30px;
+}
+
+.contactentername {
+    display: flex;
+}

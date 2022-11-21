@@ -1,0 +1,54 @@
+{
+    "about": [
+        {
+            "id": 1,
+            "manimg": "https://project.delemontstudio.com/ecofriendly/Images/aboutman1.png",
+            "herath": "Shane Herath"
+        }
+    ],
+    "aboutpara": [
+        {
+            "id": 1,
+            "paragraps": "In these highly uncertain times, it is easy to become overwhelmed by all the challenges we’re facing. While the eyes of the world have been trained on dealing with the pandemic, the climate emergency remains an urgent and huge threat to our future."
+        },
+        {
+            "id": 2,
+            "paragraps": "The internet consumes a lot of electricity. If it were a country, the internet would be on track to become the world's fourth largest emitter of CO2 and would rank third overall for electricity usage (behind China and the US; that is more than the entire United Kingdom in a year). The Internet accounts for 4% of global carbon emissions and websites are key contributor. The average website produces 1.76 grams of CO2 per page view, and heavier websites 6.8 grams of CO2 per page view. To put this into context, an average website with 10,000 page views per month would produce 816kg of CO2 per year. That’s more than the carbon emissions produced by a flight from London to Tokyo."
+        },
+        {
+            "id": 3,
+            "paragraps": "And we asked ourselves, why don’t we make websites to be as sustainable as possible, as part of the solution, whilst being highly optimised, targeted, and performance-driven. Applying sustainable user experience and development practices, we began to develop websites that not only deliver on user experience and performance but are environmentally-friendly too. This we believe could help drive a movement for eco-friendly websites. Website owners can use this as a way to let their clients/stakeholders know that they not only care about the environment but have reduced your carbon footprint on their website too."
+        }
+    ],
+    "togetherare": [
+        {
+            "id": 1,
+            "together": "For nearly 20 years, I have worked with many top tier organisations in the UK, USA and Asia, and have been involved in a number of tech startups. A Computer Science and Law graduate with postgraduate certifications, a member of the British Computer Society, Tech London Advocate, above all a passionate advocate for sustainable innovation."
+        },
+        {
+            "id": 2,
+            "together": "A social entrepreneur with a commercial and innovation background, in December 2018, I founded London Inc, a sustainable innovation tech ecosystem. ‘Sustainability-driven’ innovation is the creation of new market space, products & services driven by social, environmental or sustainability issues. I believe that sustainable innovators are not adequately supported to push their innovations through and we are on a mission to change that. We’re growing fast, enabling exciting sustainable innovations and creating new market spaces and bring about positive impact."
+        },
+        {
+            "id": 3,
+            "together": "Every year a ten billion tons of carbon dioxide needs to be removed from the atmosphere and stored. One has to start somewhere and we started with this."
+        },
+        {
+            "id": 4,
+            "together": "So we’re on a mission to clean up the Internet, with our eco-friendly website initiative! Websites that emit less carbon."
+        }
+    ],
+    "robertimgdata": [
+        {
+            "id": 1,
+            "robertimg": "https://project.delemontstudio.com/ecofriendly/Images/aboutman2.png",
+            "swan": "Robert Swan"
+        }
+    ]
+}
+
+
+
+
+
+

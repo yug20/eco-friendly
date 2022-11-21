@@ -1,0 +1,23 @@
+button.btngallery {
+    border: none;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #182B49;
+    opacity: 0.5;
+    background: transparent;
+}
+
+
+button.active {
+    color: #182B49;
+    opacity: 1;
+}
+
+.activebtnomly {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 80px;
+}

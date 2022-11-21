@@ -1,0 +1,46 @@
+:root {
+    --main-color: #182B49;
+}
+
+section.robert {
+    padding-bottom: 120px;
+}
+
+.shaneman p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 35px;
+    color: #8392A5;
+    padding-bottom: 45px;
+    margin: 0;
+}
+
+.wearetogether h5 {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: var(--main-color);
+    margin: 0;
+}
+
+.robertshaneman h5 {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 31px;
+    text-align: center;
+    color: var(--main-color);
+    padding-top: 40px;
+}
+
+section.robert {
+    padding-bottom: 120px;
+}

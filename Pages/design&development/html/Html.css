@@ -1,0 +1,23 @@
+section.htmldevlop {
+    padding-bottom: 178px;
+    position: relative;
+}
+
+section.htmldevlop:after {
+    content: "";
+    position: absolute;
+    background-image: url(../../../Assets/Images/pan3.png);
+    background-repeat: no-repeat;
+    width: 176px;
+    height: 369px;
+    left: 0;
+    top: 80px;
+}
+
+.webanaiysingcolor3 h5 {
+    color: #2061B6;
+}
+
+section.htmldevlop .row {
+    align-items: center !important;
+}

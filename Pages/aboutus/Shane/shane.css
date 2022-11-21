@@ -1,0 +1,85 @@
+section.anoutus {
+    /* padding-top: 80px; */
+    padding-bottom: 89px;
+    position: relative;
+}
+
+.aboutushead p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+    text-align: center;
+    color: #8392A5;
+    margin: 0;
+}
+
+.aboutushead {
+    max-width: 911px;
+    margin: auto;
+    margin-bottom: 82px;
+}
+
+.higly p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 35px;
+    /* or 194% */
+    color: #8392A5;
+    margin: 0;
+    padding-bottom: 55px;
+}
+
+.shaneman h2 {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 31px;
+    text-align: center;
+    color: #182B49;
+    justify-content: center;
+    padding-top: 40px;
+    margin: 0;
+}
+
+.applying p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 35px;
+    /* or 194% */
+    color: #8392A5;
+}
+
+section.anoutus:after {
+    content: "";
+    position: absolute;
+    background-image: url(../../../Assets/Images/aboutpan1.png);
+    background-repeat: no-repeat;
+    width: 127px;
+    height: 276px;
+    left: 0;
+    top: 11%;
+}
+
+.pageview {
+    position: relative;
+}
+
+.pageview:before {
+    content: "";
+    position: absolute;
+    background-image: url(../../../Assets/Images/aboutpan2.png);
+    background-repeat: no-repeat;
+    Width: 193px;
+    Height: 412px;
+    right: -190px;
+    bottom: 20px;
+    opacity: 0.1;
+}

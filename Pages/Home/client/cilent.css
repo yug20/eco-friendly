@@ -1,0 +1,182 @@
+a.movemoresee2.see span.next svg path {
+    stroke: #089D93;
+}
+
+a.movemoresee3.see span.next svg path {
+    stroke: #8EBE22;
+}
+
+h2.headingboder {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 57px;
+    /* identical to box height */
+    color: #182B49;
+    text-align: center;
+    position: relative;
+    margin-bottom: 44px;
+}
+
+.sayclient p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+    text-align: center;
+    color: #8392A5;
+}
+
+.sayclient p {
+    max-width: 446px;
+    margin: auto;
+    margin-bottom: 110px;
+}
+
+/* .sayclient h2 {
+    margin-bottom: 44px;
+} */
+
+h2.headingboder:after {
+    content: "";
+    position: absolute;
+    background: #8FBC2A;
+    border-radius: 8px;
+    width: 80px;
+    height: 5px;
+    left: 50%;
+    bottom: -20px;
+    transform: translateX(-50%);
+}
+
+h2.headingboder {
+    position: relative;
+}
+
+section.client {
+    position: relative;
+    height: 100vh;
+    padding-top: 92px;
+}
+
+section.client:after {
+    content: "";
+    position: absolute;
+    background-image: url(../../../Assets/Images/pan2.png);
+    width: 109px;
+    height: 233px;
+    left: 0;
+    top: 60px;
+}
+
+.clientdetail {
+    position: relative;
+}
+
+section.client:before {
+    content: "";
+    position: absolute;
+    background-image: url(../../../Assets/Images/round_pan.png);
+    width: 207px;
+    height: 449px;
+    right: 0;
+    top: -13%;
+}
+
+.bgcolor1 {
+    background: rgb(66 210 176 / 35%);
+    border-radius: 10px;
+}
+
+.mainclient {
+    padding: 40px 52px;
+}
+
+.bgcolor2.mainclient {
+    background: #FFE3B3;
+    border-radius: 10px;
+}
+
+.bgcolor3.mainclient {
+    background: rgb(215 232 248 / 80%);
+    border-radius: 10px;
+}
+
+.bgcolor4.mainclient {
+    background: rgb(255 181 181 / 80%);
+    border-radius: 10px;
+}
+
+.mainclient h3 {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: -0.02em;
+    color: #001737;
+    margin-bottom: 8px;
+}
+
+.mainclient p {
+    margin: 0;
+}
+
+.mainclient h6 {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: -0.02em;
+    margin-bottom: 23px;
+}
+
+.mainclient p {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    color: #0D4039;
+}
+
+h6.america2 {
+    color: #987333;
+}
+
+h6.america3 {
+    color: #53779B;
+}
+
+h6.america1 {
+    color: #2F6D6A;
+}
+
+h6.america4 {
+    color: #9F4E4E;
+}
+
+.seebtn a {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: -0.02em;
+    text-decoration-line: underline;
+    color: #089D93;
+}
+
+.seebtn {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.clientimages {
+    margin-bottom: 20px;
+}

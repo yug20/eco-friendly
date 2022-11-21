@@ -1,0 +1,82 @@
+.btn-group__item {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #182B49;
+    opacity: 0.5;
+    border: none;
+    background: transparent;
+    margin-left: 67px;
+}
+
+button.btngroupitem.active {
+    color: #182B49;
+}
+
+section.portfoliopage {
+    padding-bottom: 230px;
+    position: relative;
+}
+
+.portfoliopageheading p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+    text-align: center;
+    color: #8392A5;
+    /* max-width: 981px; */
+    /* margin: auto; */
+}
+
+.portfoliopageheading {
+    max-width: 981px;
+    margin: auto;
+    padding-bottom: 60px;
+}
+
+.portfoliopageimages {
+    padding-bottom: 26px;
+}
+
+.portfoliopageimages img {
+    border-radius: 5px;
+    width: 725px;
+    height: 510px;
+}
+
+.btn_group {
+    padding-bottom: 81px;
+}
+
+button.btn-group__item {
+    padding: 0;
+}
+
+
+section.portfoliopage:after {
+    content: "";
+    position: absolute;
+    background-image: url(../../Assets/Images/portfoliopagepan1.png);
+    background-repeat: no-repeat;
+    width: 185px;
+    height: 252px;
+    left: 0;
+    top: 27%;
+}
+
+section.portfoliopage:before {
+    content: "";
+    position: absolute;
+    background-image: url(../../Assets/Images/portfoliopagepan2.png);
+    background-repeat: no-repeat;
+    width: 101px;
+    height: 223px;
+    right: 0;
+    bottom: 16%;
+}

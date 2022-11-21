@@ -1,0 +1,63 @@
+.founderhead {
+    padding-bottom: 70px;
+}
+
+.founderhead p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 35px;
+    color: #8392A5;
+}
+
+.palner {
+    position: relative;
+}
+
+.founder:after {
+    content: "";
+    position: absolute;
+    background-image: url(../../../Assets/Images/aboutpan1.png);
+    background-repeat: no-repeat;
+    width: 127px;
+    height: 276px;
+    left: 0;
+    bottom: 18%;
+}
+
+.palner {
+    background: rgb(131 146 165 / 5%);
+    border-radius: 10px;
+    position: relative;
+    padding: 73px 0;
+}
+
+.palner p {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+    color: #8FBC2A;
+}
+
+.palner h2 {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 70px;
+    /* or 175% */
+    text-align: center;
+    color: #182B49;
+    max-width: 801px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+section.founder {
+    padding-bottom: 100px;
+    position: relative;
+}

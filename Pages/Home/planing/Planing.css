@@ -1,0 +1,161 @@
+section.Planing {
+    position: relative;
+    padding-bottom: 93px;
+}
+
+.Planing:after {
+    content: "";
+    position: absolute;
+    background-image: url(../../../Assets/Images/pan1.png);
+    background-repeat: no-repeat;
+    width: 277px;
+    height: 252px;
+    left: 10%;
+    top: -31%;
+}
+
+h2.wedoit {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 57px;
+    color: #182B49;
+    position: relative;
+    text-align: center;
+}
+
+.howdo {
+    max-width: 901px;
+    margin: auto;
+}
+
+.howdo p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+    text-align: center;
+    color: #8392A5;
+}
+
+h2.wedoit {
+    margin-bottom: 30px;
+}
+
+h2.wedoit:after {
+    content: "";
+    position: absolute;
+    background: #2061B6;
+    border-radius: 8px;
+    width: 71px;
+    height: 5px;
+    bottom: -15px;
+    transform: translateX(-50%);
+    left: 50%;
+}
+
+span.bulb1 {
+    background: rgb(32 97 182 / 10%);
+}
+
+span.bulb2 {
+    background: rgb(8 157 147 / 10%);
+}
+
+span.bulb3 {
+    background: rgb(143 188 42 / 10%);
+}
+
+span.design {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    border-radius: 100%;
+}
+
+span.design img {
+    margin: auto;
+}
+
+.howdo p {
+    margin-bottom: 50px;
+}
+
+.planingdata h4 {
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 35px;
+    text-align: center;
+    color: #182B49;
+}
+
+.planingdata p {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #8392A5;
+    opacity: 0.7;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.planingdata h4 {
+    margin: 36px 0 16px;
+}
+
+a.see {
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center !important;
+    letter-spacing: -0.02em;
+    text-decoration-line: underline;
+    color: #2061B6;
+    justify-content: center !important;
+    display: flex;
+}
+
+span.next svg {
+    margin-left: 10px;
+    transition: all 0.5s ease;
+}
+
+a.movemoresee1 {
+    color: #2061B6;
+}
+
+a.movemoresee2 {
+    color: #089D93;
+}
+
+a.movemoresee3 {
+    color: #8FBC2A;
+}
+
+a.movemoresee2.see span.next svg path {
+    stroke: #089D93;
+}
+
+a.movemoresee3.see span.next svg path {
+    stroke: #8EBE22;
+}
+
+a.see:hover span svg {
+    transform: translateX(10px);
+    transition: all 0.5s ease;
+}
+
+a.see {
+    transition: all 0.5s ease;
+}
